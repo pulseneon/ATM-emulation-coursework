@@ -1,0 +1,40 @@
+﻿Сборка начата 30.04.2022 23:44:08.
+     1>Проект "F:\Лабораторные работы\2 семестр\CourseWork\ATM\ATM\ATM.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt database.cpp interface.cpp language.cpp main.cpp payTax.cpp service.cpp transferToCard.cpp transferToPhone.cpp transferToWallet.cpp user.cpp
+         database.cpp
+         interface.cpp
+     1>interface.cpp(65): warning C4244: =: преобразование "double" в "size_t", возможна потеря данных
+     1>interface.cpp(66): warning C4244: =: преобразование "double" в "size_t", возможна потеря данных
+         language.cpp
+         main.cpp
+     1>main.cpp(37): warning C4018: <: несоответствие типов со знаком и без знака
+         payTax.cpp
+         service.cpp
+         transferToCard.cpp
+         transferToPhone.cpp
+         transferToWallet.cpp
+         user.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Лабораторные работы\2 семестр\CourseWork\ATM\Release\ATM.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Лабораторные работы\2 семестр\CourseWork\ATM\Release\ATM.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Лабораторные работы\2 семестр\CourseWork\ATM\Release\ATM.lib" /MACHINE:X86 /SAFESEH Release\account.obj
+         Release\card.obj
+         Release\database.obj
+         Release\interface.obj
+         Release\language.obj
+         Release\main.obj
+         Release\money.obj
+         Release\payTax.obj
+         Release\service.obj
+         Release\transferToCard.obj
+         Release\transferToPhone.obj
+         Release\transferToWallet.obj
+         Release\user.obj
+         Создание кода
+     1>f:\лабораторные работы\2 семестр\coursework\atm\atm\database.cpp(30): warning C4715: Database::getPath: значение возвращается не при всех путях выполнения
+         Создание кода завершено
+         ATM.vcxproj -> F:\Лабораторные работы\2 семестр\CourseWork\ATM\Release\ATM.exe
+     1>Сборка проекта "F:\Лабораторные работы\2 семестр\CourseWork\ATM\ATM\ATM.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:10.17
