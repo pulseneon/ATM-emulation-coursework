@@ -1,0 +1,8 @@
+RU|D:\\course work list\\Cap_Rus.txt
+EN|D:\\course work list\\Cap_Eng.txt
+NL|D:\\course work list\\Cap_Nid.txt
+Operations|D:\\course work list\\Operations log.txt
+Cards|D:\\course work list\\Cards list.txt
+About me|D:\\course work list\\About me.txt
+Help|D:\\course work list\\Help.txt
+Subject Area|D:\\course work list\\Subject Area.txt

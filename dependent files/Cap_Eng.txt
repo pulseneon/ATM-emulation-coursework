@@ -1,0 +1,177 @@
+user_name|Ilya Kondratiev
+pause|Press any button to continue..
+male|Male
+female|Female
+currency|Rub
+bal|Balance:
+lim|Limit:
+zastavka_name|text
+zastavka_fac|text
+zastavka_kaf|text
+zastavka_curs|text
+zastavka_disciplina|text
+zastavka_tema|text
+zastavka_rucovoditel|text
+zastavka_prepod|text
+zastavka_morozova|text
+zastavka_assistent|text
+zastavka_artemenko|text
+zastavka_vipolnil|text
+zastavka_student|text
+zastavka_rudnev|text
+zastavka_doneck|text
+zastavka_start|Start: <ENTER>
+zastavka_lang|Change language: <TAB>
+zastavka_exit|Exit: <ESC>
+zastavka_about_author|About the author: <a>
+zastavka_help|Operator's guide: <s>
+zastavka_about_prog|About the program: <d>
+switch_lang_sharp|[Language Menu]
+switch_lang_name|Language change frame
+switch_lang_all|Available languages:
+switch_lang_now|Current language:
+switch_lang_sm|Enter the language code to change:
+switch_lang_ok|Language has been successfully changed.
+switch_lang_er|Language was not found.
+auth_hub|[ Login Screen ]
+auth_message|<Insert card to continue>
+auth_card|Card:
+auth_card_status_t|At an ATM.
+auth_logoff|Press <s> to get the card.
+auth_proceed|Press <d> to continue.
+auth_card_status_f|Not found.
+auth_enter_card|Press <s> to insert a card.
+auth_leave|Press <d> to exit.
+auth_get_pin_hub|[Login Screen]
+auth_get_pin_message|Please enter your PIN:
+auth_get_pin_tip|<this pin will be assigned to the card>
+auth_get_pin_error|Error. Invalid PIN.
+auth_get_pin_reply|Please retype:
+auth_delay|Please wait! Thank you.
+auth_hello_hub|[Authorization completed]
+auth_hello| welcome!
+check_pin_hub|[ Check PIN ]
+check_pin_message|To confirm the operation, enter the PIN code:
+check_pin_error|Error. Invalid PIN.
+check_pin_reply|Please re-enter:
+check_pin_delay|Please wait! Thank you.
+menu_hub|[ Main menu ]
+menu_list_addBal|Top up account.
+menu_list_subBal|Withdraw money.
+menu_list_history|History of operations.
+menu_list_transfer|Transfer money to account.
+menu_list_service|Pay for a service.
+menu_list_cabinet|Profile.
+menu_list_info|Settings.
+menu_list_exit|Exit.
+add_money_hub|[ Top up balance ]
+add_money_message|Enter the amount you want to deposit into the ATM.
+add_money_blocked|The operation is blocked.
+add_money_blocked_limit|Reason: The limit on the card has been exceeded.
+add_money_blocked_odd|Reason: Suspicious operation.
+add_money_blocked_error|Cause: Please re-enter the transaction amount.
+add_money_blocked_reply|Enter the top up amount again.
+add_money_delay|Please wait! Thank you.
+add_money_ok|Operation completed successfully.
+sub_money_hub|[ Withdraw money ]
+sub_money_message|Enter the amount you want to withdraw.
+sub_money_blocked|The operation is blocked.
+sub_money_blocked_odd|Reason: Suspicious operation.
+sub_money_blocked_error|Reason: Please re-enter the transaction amount.
+sub_money_blocked_reply|Enter the top up amount again.
+sub_money_delay|Please wait! Thank you.
+sub_money_ok|Operation completed successfully.
+history_hub|[ Activity history ]
+history_message|Show all your recent account activity:
+profile_hub|[ Profile ]
+profile_message|Full information about your account
+profile_edit | <You can change by leaving a ticket>
+profile_id|Account number:
+profile_card|Your card number:
+profile_card_name|Card name:
+profile_card_time|Expires:
+profile_fio|Name:
+profile_gender|Gender:
+profile_birthday|Birthday:
+profile_bal|Current balance:
+profile_limit|Account limit:
+profile_menu_ticket|Open a ticket.
+profile_menu_back|Back.
+ticket_hub|[ Ticket Menu ]
+ticket_message|Select which ticket you want to open for those. support:
+ticket_fio|Name change.
+ticket_birthday|Change birthday.
+ticket_card_name|Change card name.
+ticket_card_time|Renewing the card.
+ticket_limit|Increasing the balance limit.
+ticket_back|Back.
+ticket_back_message|You are back.
+ticket_error|Please try again.
+ticket_answer|Ask a question support.
+ticket_ans_message|What do you want to change to?
+ticket_ans_good|Tech. support will consider your suggestion soon.
+ticket_ans_card_time|Your card will be valid for a long time.
+ticket_ans_limit|Enter the desired limit:
+ticket_ans_limit_good|Our bank will be able to change your limit.
+ticket_ans_limit_bad|Our bank does not agree to such conditions.
+ticket_ans_finish|The operation completed successfully.
+ticket_ans_tp|Currently, all tech. support is busy.
+ticket_ans_tp_end|Please try again later.
+add_log_addbal|Account replenished with
+add_log_subbal|Withdrawn from the account
+add_log_change_name|Changed account name to
+add_log_change_birthday|Changed birthday to
+add_log_change_card_name|Changed card name to
+add_log_change_limit|Changed balance limit to
+settings_hub|[ Settings ]
+settings_message|Select a command to work with terminal settings:
+settings_lang|Change language.
+settings_clear|Clear account (<overload>).
+settings_null|Clear operations.
+settings_back|Back.
+settings_lang_message|Language setup completed.
+settings_clear_message|Funds deducted from the account.
+settings_null_message|Operations cleared successfully.
+
+service_hub|[ Payment for services ]
+service_message|Select the appropriate option:
+service_to_phone|Top up a phone number.
+service_pay_tax|Paying taxes.
+service_to_wallet|Replenishment of an online wallet.
+service_back|Back.
+
+service_to_phone_hub|[ Phone recharge ]
+service_to_phone_message|Top up the phone number of any operator
+service_to_phone_help|<Phone number - 10 digits>
+service_to_phone_sum|Payment amount:
+service_to_phone_good|Payment completed successfully. Have a good day.
+service_to_phone_bad|The service generated an error. Change the amount.
+
+service_pay_tax_hub|[ Tax payment ]
+service_pay_tax_message_1|Tax is a fee that is enforced at a fixed rate
+service_pay_tax_message_2|from individuals or legal entities in favor of the state.
+service_pay_tax_message_3|Deduction of various taxes in favor of the state is necessary for
+service_pay_tax_message_4|financing of the healthcare system, culture, education, defense,
+service_pay_tax_message_5|social support, maintenance of various management apparatuses.
+service_pay_tax_message_6|To pay, enter your TIN:
+service_pay_tax_message_7|<TIN - 12 digits>
+service_pay_tax_sum|Payment amount:
+service_pay_tax_good|Payment completed successfully. Have a good day.
+service_pay_tax_bad|The service generated an error. Change the amount.
+
+service_pay_wallet_hub|[ Top up online wallet ]
+service_pay_wallet_message|Top up your online wallet now
+service_pay_wallet_help|<Wallet number - 8 digits>
+service_pay_wallet_sum|Payment amount:
+service_pay_wallet_good|Payment completed successfully. Have a good day.
+service_pay_wallet_bad|The service generated an error. Change the amount.
+
+transfer_card_hub|[ Transfer to card ]
+transfer_card_message|Transfer money to any card of our bank.
+transfer_card_help|<Card number must be entered with spaces>
+transfer_card_recent|Selected cards for transfers:
+transfer_card_get_card|Enter card number:
+transfer_card_sum|Transfer amount:
+transfer_card_sum_bad|Insufficient funds on the card.
+transfer_card_sum_good|Transfer completed successfully.
+settings_classes_info|Classes created so far: 

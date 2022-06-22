@@ -1,0 +1,184 @@
+user_name|Ilya Kondratiev
+pause|Druk op een willekeurige knop om door te gaan..
+male|Mannelijk
+female|Vrouwelijk
+currency|Rub
+bal|Saldo:
+lim|Limiet:
+zastavka_name|text
+zastavka_fac|text
+zastavka_kaf|text
+zastavka_curs|text
+zastavka_disciplina|text
+zastavka_tema|text
+zastavka_rucovoditel|text
+zastavka_prepod|text
+zastavka_morozova|text
+zastavka_assistent|text
+zastavka_artemenko|text
+zastavka_vipolnil|text
+zastavka_student|text
+zastavka_rudnev|text
+zastavka_doneck|text
+zastavka_start|Start: <ENTER>
+zastavka_lang|Taal wijzigen: <TAB>
+zastavka_exit|Afsluiten: <Q>
+zastavka_about_author|Over de auteur: <a>
+zastavka_help|Gebruikershandleiding: <s>
+zastavka_about_prog|Over het programma: <d>
+switch_lang_sharp|[Taalmenu]
+switch_lang_name|Taal wijzigen frame
+switch_lang_all|Beschikbare talen:
+switch_lang_now|Huidige taal:
+switch_lang_sm|Voer de taalcode in om te wijzigen:
+switch_lang_ok|Taal is succesvol gewijzigd.
+switch_lang_er|Taal is niet gevonden.
+auth_hub|[ Inlogscherm ]
+auth_message|<Voer kaart in om door te gaan>
+auth_card|Kaart:
+auth_card_status_t|Bij een geldautomaat.
+auth_logoff|Druk op <s> om de kaart te krijgen.
+auth_proceed|Druk op <d> om verder te gaan.
+auth_card_status_f|Niet gevonden.
+auth_enter_card|Druk op <s> om een ​​kaart te plaatsen.
+auth_leave|Druk op <d> om af te sluiten.
+auth_get_pin_hub|[Inlogscherm]
+auth_get_pin_message|Stel uw accountpincode in:
+auth_get_pin_tip|<Pin is een viercijferig nummer>
+auth_get_pin_error|Fout. Ongeldige pincode.
+auth_get_pin_reply|Typ opnieuw:
+auth_delay|Een ogenblik geduld! Dank u.
+auth_hello_hub|[Autorisatie voltooid]
+auth_hallo| welkom!
+check_pin_hub|[ Controleer pincode ]
+check_pin_message|Voer de pincode in om de bewerking te bevestigen:
+check_pin_error|Fout. Ongeldige pincode.
+check_pin_reply|Voer opnieuw in:
+check_pin_delay|Een ogenblik geduld! Dank u.
+menu_hub|[ Hoofdmenu ]
+menu_list_addBal|Account opwaarderen.
+menu_list_subBal|Geld opnemen.
+menu_list_history|Geschiedenis van operaties.
+menu_list_transfer|Geld over naar kaart.
+menu_list_service|Betaal voor een dienst.
+menu_list_cabinet|Profiel.
+menu_list_info|Instellingen.
+menu_list_exit|Afsluiten.
+add_money_hub|[ Saldo opwaarderen ]
+add_money_message|Voer het bedrag in dat u in de geldautomaat wilt storten.
+add_money_message_info|<Min. bedrag: 100 roebel | Om te annuleren, voer in: -1>
+add_money_blocked|De bewerking is geblokkeerd.
+add_money_blocked_limit|Reden: De limiet op de kaart is overschreden.
+add_money_blocked_odd|Reden: Verdachte operatie.
+add_money_blocked_error|Oorzaak: Voer het transactiebedrag opnieuw in.
+add_money_blocked_reply|Vul het opwaardeerbedrag opnieuw in.
+add_money_delay|Een ogenblik geduld! Dank u.
+add_money_ok|Bewerking succesvol afgerond.
+sub_money_hub|[ Geld opnemen ]
+sub_money_message|Vul het bedrag in dat u wilt opnemen.
+sub_money_message_info|<Min. bedrag: 100 roebel | Om te annuleren, voer in: -1>
+sub_money_blocked|De bewerking is geblokkeerd.
+sub_money_blocked_odd|Reden: Verdachte operatie.
+sub_money_blocked_error|Reden: Voer het transactiebedrag opnieuw in.
+sub_money_blocked_reply|Vul het opwaardeerbedrag opnieuw in.
+sub_money_delay|Een ogenblik geduld! Dank u.
+sub_money_ok|Bewerking succesvol afgerond.
+history_hub|[ Activiteitsgeschiedenis ]
+history_message|Toon al uw recente accountactiviteit:
+profile_hub|[ Profiel ]
+profile_message|Volledige informatie over uw account
+profile_edit | <Je kunt wisselen door een ticket achter te laten>
+profile_id|Rekeningnummer:
+profile_card|Uw kaartnummer:
+profile_card_name|Kaartnaam:
+profile_card_time|Verloopt:
+profile_fio|Naam:
+profile_gender|Geslacht:
+profile_birthday|Verjaardag:
+profile_bal|Huidig ​​saldo:
+profile_limit|Accountlimiet:
+profile_menu_ticket|Open een ticket.
+profile_menu_back|Terug.
+ticket_hub|[ Ticketmenu ]
+ticket_message|Selecteer welk ticket je daarvoor wilt openen. steun:
+ticket_fio|Naamswijziging.
+ticket_birthday|Verander verjaardag.
+ticket_card_name|Wijzig kaartnaam.
+ticket_card_time|De kaart vernieuwen.
+ticket_limit|Verhogen van de saldolimiet.
+ticket_back|Terug.
+ticket_back_message|Je bent terug.
+ticket_error|Probeer het opnieuw.
+ticket_answer|Stel een vraag steun.
+ticket_ans_message|Waar wil je in veranderen?
+ticket_ans_good|Tech. ondersteuning zal uw suggestie binnenkort in overweging nemen.
+ticket_ans_card_time|Je kaart blijft lang geldig.
+ticket_ans_limit|Vul de gewenste limiet in:
+ticket_ans_limit_good|Onze bank kan uw limiet wijzigen.
+ticket_ans_limit_bad|Onze bank gaat niet akkoord met dergelijke voorwaarden.
+ticket_ans_finish|De bewerking is succesvol voltooid.
+ticket_ans_tp|Momenteel zijn alle tech. ondersteuning is bezet.
+ticket_ans_tp_end|Probeer het later opnieuw.
+add_log_addbal|Account aangevuld met
+add_log_subbal|Ingetrokken van het account
+add_log_change_name|Accountnaam gewijzigd in
+add_log_change_birthday|Verjaardag gewijzigd in
+add_log_change_card_name|Kaartnaam gewijzigd in
+add_log_change_limit|Tegoedlimiet gewijzigd in
+settings_hub|[ Instellingen ]
+settings_message|Selecteer een commando om met terminalinstellingen te werken:
+settings_lang|Taal wijzigen.
+settings_clear|Account wissen (<overload>).
+settings_null|Wis bewerkingen.
+settings_cards|Lijst van alle kaarten (<uit bestand>).
+settings_back|Terug.
+settings_lang_message|Taalconfiguratie voltooid.
+settings_clear_message|Tegoeden afgeschreven van de rekening.
+settings_null_message|Bewerkingen succesvol gewist.
+service_hub|[ Betaling voor diensten ]
+service_message|Selecteer de juiste optie:
+service_to_phone|Herlaad een telefoonnummer op.
+service_pay_tax|Belasting betalen.
+service_to_wallet|Aanvulling van een online portemonnee.
+service_back|Terug.
+service_to_phone_hub|[ Telefoon opladen ]
+service_to_phone_message|Haal het telefoonnummer van een willekeurige operator op
+service_to_phone_help|<Telefoonnummer - 10 cijfers>
+service_to_phone_sum|Betaalbedrag:
+service_to_phone_sum_help|<Min. hoeveelheid: 0 wrijven | Om te annuleren, voer in: -1>
+service_to_phone_good|Betaling succesvol afgerond. Fijne dag.
+service_to_phone_bad|De service heeft een fout gegenereerd. Wijzig het bedrag.
+service_pay_tax_hub|[ Belastingbetaling ]
+service_pay_tax_message_1|Belasting is een vergoeding die tegen een vast tarief wordt afgedwongen
+service_pay_tax_message_2|van natuurlijke personen of rechtspersonen ten gunste van de staat.
+service_pay_tax_message_3|Aftrek van verschillende belastingen ten gunste van de staat is noodzakelijk voor
+service_pay_tax_message_4|financiering van de gezondheidszorg, cultuur, onderwijs, defensie,
+service_pay_tax_message_5|sociale ondersteuning, onderhoud van verschillende beheersapparatuur.
+service_pay_tax_message_6|Voer uw TIN in om te betalen:
+service_pay_tax_message_7|<TIN - 12 cijfers>
+service_pay_tax_sum|Betaalbedrag:
+service_pay_tax_sum_help|<Min. hoeveelheid: 0 wrijven | Om te annuleren, voer in: -1>
+service_pay_tax_good|Betaling succesvol afgerond. Fijne dag.
+service_pay_tax_bad|De service heeft een fout gegenereerd. Wijzig het bedrag.
+service_pay_wallet_hub|[ Online portemonnee opwaarderen ]
+service_pay_wallet_message|Nu uw online portemonnee opwaarderen
+service_pay_wallet_help|<Wallet-nummer - 8 cijfers>
+service_pay_wallet_sum|Betaalbedrag:
+service_pay_wallet_sum_help|<Min. hoeveelheid: 0 wrijven | Om te annuleren, voer in: -1>
+service_pay_wallet_good|Betaling succesvol afgerond. Fijne dag.
+service_pay_wallet_bad|De service heeft een fout gegenereerd. Wijzig het bedrag.
+reset_log|Account is gereset in instellingen.
+transfer_card_hub|[ Transfer naar kaart ]
+transfer_card_message|Maak geld over naar een kaart van onze bank.
+transfer_card_message_help|Maak geld over naar de door u gekozen kaart of naar een andere bank van ons.
+transfer_card_help|<Kaartnummer moet worden ingevoerd met spaties>
+transfer_card_my_card|Uw kaart:
+transfer_card_to_card|Overboeking naar kaart (debet):
+transfer_card_recent|Lijst met favoriete kaarten voor overboeking:
+transfer_card_get_card|Vul het nummer in van de kaart waarnaar u geld wilt overmaken:
+transfer_card_send_info|<Min. bedrag: 100 roebel | Om te annuleren, voer in: -1>
+transfer_card_sum|Overboekingsbedrag:
+transfer_card_sum_bad|Onvoldoende saldo op de kaart.
+transfer_card_sum_error|Overboekingsbedrag te klein (minimaal 100).
+transfer_card_sum_good|Overdracht succesvol afgerond.
+settings_classes_info|Klassen die tot nu toe zijn gemaakt: 

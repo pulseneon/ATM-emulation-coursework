@@ -1,0 +1,184 @@
+user_name|Илья Кондратьев
+pause|Нажмите любую кнопку, чтобы продолжить..
+male|Мужской
+female|Женский
+currency|Руб
+bal|Баланс: 
+lim|Лимит: 
+zastavka_name|текст
+zastavka_fac|текст
+zastavka_kaf|текст
+zastavka_curs|текст
+zastavka_disciplina|текст
+zastavka_tema|текст
+zastavka_rucovoditel|текст
+zastavka_prepod|текст
+zastavka_morozova|текст  
+zastavka_assistent|текст
+zastavka_artemenko|текст
+zastavka_vipolnil|текст  
+zastavka_student|текст  
+zastavka_rudnev|текст  
+zastavka_doneck|текст
+zastavka_start|Начать: <ENTER>
+zastavka_lang|Сменить язык: <TAB>
+zastavka_exit|Выйти: <Q>
+zastavka_about_author|Об авторе: <a>
+zastavka_help|Руководство оператора: <s>
+zastavka_about_prog|О программе: <d>                
+switch_lang_sharp|[ Меню языков ]
+switch_lang_name|Кадр смены языка
+switch_lang_all|Доступные языки: 
+switch_lang_now|Текущий язык: 
+switch_lang_sm|Введите код языка для смены: 
+switch_lang_ok|Язык был успешно сменен.
+switch_lang_er|Язык не был найден.
+auth_hub|[ Экран авторизации ]
+auth_message|<Вставьте карту для продолжения>
+auth_card|Карта: 
+auth_card_status_t|В банкомате.
+auth_logoff|Нажмите <s>, чтобы достать карту.
+auth_proceed|Нажмите <d>, чтобы продолжить.
+auth_card_status_f|Не обнаружена.
+auth_enter_card|Нажмите <s>, чтобы вставить карту.
+auth_leave|Нажмите <d>, чтобы выйти.
+auth_get_pin_hub|[Экран авторизации]
+auth_get_pin_message|Задайте ПИН-Код вашего аккаунта:
+auth_get_pin_tip|<Пин-код - четырехзначное число>
+auth_get_pin_error|Ошибка. Неверный ПИН-код.
+auth_get_pin_reply|Пожалуйста, повторите ввод:
+auth_delay|Пожалуйста, подождите! Спасибо.
+auth_hello_hub|[Авторизация завершена]
+auth_hello|, добро пожаловать!
+check_pin_hub|[ Проверка ПИН-Кода ]
+check_pin_message|Для подтверждения операции введите ПИН-Код:
+check_pin_error|Ошибка. Неверный ПИН-код.
+check_pin_reply|Пожалуйста, повторите ввод:
+check_pin_delay|Пожалуйста, подождите! Спасибо.
+menu_hub|[ Главное меню ]
+menu_list_addBal|Пополнить счет.
+menu_list_subBal|Снять деньги.
+menu_list_history|История операций.
+menu_list_transfer|Перевести деньги на карту.
+menu_list_service|Оплатить услугу.
+menu_list_cabinet|Профиль.
+menu_list_info|Настройки.
+menu_list_exit|Выход.
+add_money_hub|[ Пополнить баланс ]
+add_money_message|Введите сумму, которую хотите внести в банкомат.
+add_money_message_info|<Мин. сумма: 100 руб | Для отмены введите: -1>
+add_money_blocked|Операция заблокирована.
+add_money_blocked_limit|Причина: Лимит на карте превышен.
+add_money_blocked_odd|Причина: Подозрительная операция.
+add_money_blocked_error|Причина: Повторите ввод суммы операции.
+add_money_blocked_reply|Введите сумму пополнения еще раз.
+add_money_delay|Пожалуйста, подождите! Спасибо.
+add_money_ok|Операция успешно проведена.
+sub_money_hub|[ Снять деньги ]
+sub_money_message|Введите сумму, которую хотите снять.
+sub_money_message_info|<Мин. сумма: 100 руб | Для отмены введите: -1>
+sub_money_blocked|Операция заблокирована.
+sub_money_blocked_odd|Причина: Подозрительная операция.
+sub_money_blocked_error|Причина: Повторите ввод суммы операции.
+sub_money_blocked_reply|Введите сумму пополнения еще раз.
+sub_money_delay|Пожалуйста, подождите! Спасибо.
+sub_money_ok|Операция успешно проведена.
+history_hub|[ История операций ]
+history_message|Вывод всех ваших недавних операций на аккаунте: 
+profile_hub|[ Профиль ]
+profile_message|Полная информация о Вашем аккаунте
+profile_edit|  <Изменить можно оставив тикет>
+profile_id|Номер аккаунта: 
+profile_card|Номер вашей карты: 
+profile_card_name|Имя карты: 
+profile_card_time|Срок действия: 
+profile_fio|ФИО: 
+profile_gender|Пол: 
+profile_birthday|День рождения: 
+profile_bal|Текущий баланс: 
+profile_limit|Лимит аккаунта: 
+profile_menu_ticket|Открыть тикет.
+profile_menu_back|Назад.
+ticket_hub|[ Меню тикетов ]
+ticket_message|Выберите какой тикет нужно открыть для тех. поддержки:
+ticket_fio|Смена имени.
+ticket_birthday|Смена дня рождения.
+ticket_card_name|Смена имени карты.
+ticket_card_time|Продление карты.
+ticket_limit|Увеличение лимита баланса.
+ticket_back|Назад.
+ticket_back_message|Вы вернулись назад.
+ticket_error|Повторите ввод.
+ticket_answer|Задать вопрос тех. поддержке.
+ticket_ans_message|На что вы хотите изменить?
+ticket_ans_good|Тех. поддержка скоро рассмотрит ваше предложение.
+ticket_ans_card_time|Ваша карта еще долго будет действительна.
+ticket_ans_limit|Введите желаемый лимит: 
+ticket_ans_limit_good|Наш банк сможет изменить ваш лимит.
+ticket_ans_limit_bad|Наш банк не согласен на такие условия.
+ticket_ans_finish|Операция успешно завершена.
+ticket_ans_tp|На данный момент все операторы тех. поддержки заняты.
+ticket_ans_tp_end|Попробуйте повторить запрос позже.
+add_log_addbal|Счет пополнен на 
+add_log_subbal|Со счета снято 
+add_log_change_name|Изменено имя аккаунта на 
+add_log_change_birthday|Изменено день рождение на
+add_log_change_card_name|Изменено название карты на 
+add_log_change_limit|Изменен лимит баланса на 
+settings_hub|[ Настройки ]
+settings_message|Выберите команду для работы с настройками терминала: 
+settings_lang|Изменить язык.
+settings_clear|Обнулить аккаунт (<перегрузка>).
+settings_null|Очистить операции.
+settings_cards|Список всех карт (<из файла>).
+settings_back|Назад.
+settings_classes_info|Классов создано на данный момент: 
+settings_lang_message|Настройка языка завершена.
+settings_clear_message|Средства с аккаунта списаны.
+settings_null_message|Операции успешно очищены.
+service_hub|[ Оплата услуг ]
+service_message|Выберите подходящий вариант:
+service_to_phone|Пополнить номер телефона.
+service_pay_tax|Оплата налогов.
+service_to_wallet|Пополнение онлайн-кошелька.
+service_back|Назад.
+service_to_phone_hub|[ Пополнение телефона ]
+service_to_phone_message|Пополните номер телефона любого оператора
+service_to_phone_help|<Номер телефона - 10 цифр>
+service_to_phone_sum|Сумма оплаты:
+service_to_phone_sum_help|<Мин. сумма: 0 руб | Для отмены введите: -1>
+service_to_phone_good|Оплата проведена успешно. Удачного дня.
+service_to_phone_bad|Сервис выдал ошибку. Смените сумму.
+service_pay_tax_hub|[ Оплата налогов ]
+service_pay_tax_message_1|Налог — это принудительно взимаемая плата в установленном размере
+service_pay_tax_message_2|с физических или юридических лиц в пользу государства.
+service_pay_tax_message_3|Отчисление различных налогов в пользу государства необходимо для
+service_pay_tax_message_4|финансирования системы здравоохранения, культуры, образование, оборону,
+service_pay_tax_message_5|социальную поддержку, содержание различных аппаратов управления.
+service_pay_tax_message_6|Для оплаты введите свой ИНН:
+service_pay_tax_message_7|<ИНН - 12 цифр>
+service_pay_tax_sum|Сумма оплаты:
+service_pay_tax_sum_help|<Мин. сумма: 0 руб | Для отмены введите: -1>
+service_pay_tax_good|Оплата проведена успешно. Удачного дня.
+service_pay_tax_bad|Сервис выдал ошибку. Смените сумму.
+service_pay_wallet_hub|[ Пополнение онлайн-кошелька ]
+service_pay_wallet_message|Пополните свой онлайн-кошелек прямо сейчас
+service_pay_wallet_help|<Номер кошелька - 8 цифр>
+service_pay_wallet_sum|Сумма оплаты:
+service_pay_wallet_sum_help|<Мин. сумма: 0 руб | Для отмены введите: -1>
+service_pay_wallet_good|Оплата проведена успешно. Удачного дня.
+service_pay_wallet_bad|Сервис выдал ошибку. Смените сумму.
+reset_log|Аккаунт был обнулен в настройках. 
+transfer_card_hub|[ Перевод на карту ]
+transfer_card_message|Переведите деньги на любую карту нашего банка.
+transfer_card_message_help|Переведите деньги на избранную карту или на другую любую нашего банка.
+transfer_card_help|<Номер карты вводится с пробелами>
+transfer_card_my_card|Ваша карта: 
+transfer_card_to_card|Перевод на карту (дебитовая): 
+transfer_card_recent|Список избранных карты для перевода: 
+transfer_card_get_card|Введите номер карты, на которую желаете перевести деньги: 
+transfer_card_send_info|<Мин. сумма: 100 руб | Для отмены введите: -1>
+transfer_card_sum|Сумма перевода: 
+transfer_card_sum_bad|Недостаток средств на карте.
+transfer_card_sum_error|Слишком маленькая сумма перевода (минимум 100).
+transfer_card_sum_good|Перевод успешно осуществлен.
